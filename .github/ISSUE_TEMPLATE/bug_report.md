@@ -1,5 +1,5 @@
 ---
-name: '🐛 Bug Report 🐛'
+name: '🐛 Bug Report'
 about: We broke something, again.
 title: '[BUG]: <enter title here>'
 labels: 'bug, needs triage :exclamation:'
