@@ -1,5 +1,5 @@
 ---
-name: '🚀 Feature request 🚀'
+name: '🚀 Feature request'
 about: Suggest a new feature / enhancement for this project
 title: '[Feature]: <enter title here>'
 labels: ['enhancement', 'needs triage :exclamation:']
