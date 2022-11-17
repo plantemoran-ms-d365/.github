@@ -1,0 +1,25 @@
+{
+  "name": "github",
+  "displayName": "Default (root) GitHub project",
+  "description": "Default (root) GitHub project",
+  "author": {
+    "name": "Michael Obrycki"
+  },
+  "contributors": [],
+  "license": "UNLICENSED",
+  "private": true,
+  "homepage": "https://github.com/plantemoran-ms-d365/.github#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plantemoran-ms-d365/.github.git"
+  },
+  "bugs": {
+    "url": "https://github.com/plantemoran-ms-d365/.github/issues"
+  },
+  "scripts": {
+    "lint": "markdownlint **/*.md"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.32.2"
+  }
+}
