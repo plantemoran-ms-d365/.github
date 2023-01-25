@@ -1,0 +1,19 @@
+name: '🚀 Backlog issue'
+description: Quickly create an issue from a backlog spreadsheet
+labels: []
+title: '<enter title here>'
+body:
+  - type: textarea
+    attributes:
+      label: Design Approach
+      description: A clear and concise description of the plan.
+      placeholder: ''
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Assumptions
+      description: Assumptions from the backlog.
+    validations:
+      required: true
