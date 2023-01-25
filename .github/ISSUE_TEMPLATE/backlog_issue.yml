@@ -7,7 +7,7 @@ body:
     attributes:
       label: Design Approach
       description: A clear and concise description of the plan.
-      placeholder: ''
+      placeholder: 'Design approach...'
     validations:
       required: true
 
@@ -15,5 +15,6 @@ body:
     attributes:
       label: Assumptions
       description: Assumptions from the backlog.
+      placeholder: 'Assumptions...'
     validations:
       required: true
